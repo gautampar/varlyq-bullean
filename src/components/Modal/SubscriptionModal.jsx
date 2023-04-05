@@ -1,7 +1,6 @@
-import { Dialog, Grid, Slide } from '@mui/material';
-import React from 'react'
-
-
+import { Dialog, Grid } from '@mui/material';
+import React from 'react';
+import '../Home/home.css';
 
 
 function SubscriptionModal({ open, Transition, handleClose}) {

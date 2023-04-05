@@ -1,6 +1,7 @@
 import { Dialog, Grid } from "@mui/material";
 import React from "react";
 import SubscriptionModal from "./SubscriptionModal";
+import '../Home/home.css';
 
 function LogInModal({ loginOpen, Transition, handleClose, handleClickOpen }) {
   const [open, setOpen] = React.useState(false);
