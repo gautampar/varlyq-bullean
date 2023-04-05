@@ -1,0 +1,10 @@
+.dialog {background-color: #1B2037; padding: 51px 75px; max-width: 1174px; border-radius: 20px;}
+.dialog .dialog-title { color: #FFFFFF; font-weight: 500; font-size: 26px; text-align: center; margin-bottom: 36px;}
+.dialog label { color: #FFFFFF; font-size: 13px; line-height: 18px; font-weight: 500;}
+.dialog input { outline: none; padding: 7px; border-radius: 10px; width: 474px; margin-bottom: 18px; margin-top: 8px;}
+.dialog .subscribe {text-align: center; margin-top: 60px;}
+.dialog .subscribe  .subscribe-btn { color: #FFFFFF; background: linear-gradient(90deg, #0EFAB4 0%, #0D49F7 100%); padding: 10px 45px; border-radius: 10px; border: 1px solid #ffffff;}
+
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper { background-color: unset !important; color: unset !important; margin: 0 !important; overflow-y: unset !important; display: unset !important; max-width: unset !important; max-height: unset !important;}
+form {display: flex; align-items: flex-start; flex-direction: column;}

@@ -1,0 +1,16 @@
+@keyframes open {
+  from {width: 0px;}
+  to {width: 300px;}
+}
+
+.sidebar {
+  animation-name: open;
+  animation-duration: 1s;
+  animation-timing-function: ease;
+}
+
+@media only screen and (min-width: 1000px) {
+  .hideSideBar {
+    display:none;
+  }
+}

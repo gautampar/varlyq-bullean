@@ -1,0 +1,27 @@
+@import url("https://fonts.cdnfonts.com/css/ranade");
+@import url("https://fonts.cdnfonts.com/css/bespoke");
+
+.ranade {
+  font-family: "Ranade", sans-serif;
+}
+
+.bespoke {
+  font-family: "Bespoke", sans-serif;
+}
+
+.mainbg {
+  /* background-color: #14205e; */
+  background: linear-gradient(266.8deg, #0d31ff -4.84%, #0efdb3 95.78%);
+}
+
+.navbg {
+  background: #10194d;
+}
+
+.bg2 {
+  background-color: rgb(5, 0, 76);
+}
+
+.footerbg {
+  background: rgba(0, 0, 0, 0.33);
+}

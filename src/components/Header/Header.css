@@ -1,0 +1,11 @@
+.showBarIcon {
+    display: none;
+}
+@media only screen and (max-width: 1000px) {
+  .hideHeaderTitles {
+    display:none;
+  }
+  .showBarIcon {
+    display: block;
+  }
+}

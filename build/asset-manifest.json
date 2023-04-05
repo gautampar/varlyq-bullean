@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9b4e270e.css",
+    "main.js": "./static/js/main.e83ce5c2.js",
+    "static/media/Vector 9.png": "./static/media/Vector 9.2488ca431ec81fff8011.png",
+    "static/media/glow.png": "./static/media/glow.881be3ddefe26d23d26b.png",
+    "static/media/Vector 16.png": "./static/media/Vector 16.659b69085b3b0215f5dd.png",
+    "static/media/homeImage.png": "./static/media/homeImage.0b3acedf2f73857102db.png",
+    "static/media/Ellipse 22.png": "./static/media/Ellipse 22.d5db22af4090d050df64.png",
+    "static/media/Curated.png": "./static/media/Curated.644694a95381a7cf2998.png",
+    "static/media/getInTouch.png": "./static/media/getInTouch.d2d3cb386d365bbdebb5.png",
+    "static/media/Group 14.png": "./static/media/Group 14.78f274b9caa4917303d2.png",
+    "static/media/investor.png": "./static/media/investor.3dd428b5190f5265b365.png",
+    "static/media/Mask group-1.png": "./static/media/Mask group-1.48bcd44fea227961c9ac.png",
+    "static/media/Mask group-2.png": "./static/media/Mask group-2.06af470df1b09088daa0.png",
+    "static/media/Mask group.png": "./static/media/Mask group.d86d177860c52b94dafb.png",
+    "static/media/service.png": "./static/media/service.f28518c9c4b854a3d895.png",
+    "static/media/Mask group-3.png": "./static/media/Mask group-3.dc5de3fea0e6acbaab7b.png",
+    "static/media/image 13.png": "./static/media/image 13.94bb0a6498c94558b7f8.png",
+    "index.html": "./index.html",
+    "main.9b4e270e.css.map": "./static/css/main.9b4e270e.css.map",
+    "main.e83ce5c2.js.map": "./static/js/main.e83ce5c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b4e270e.css",
+    "static/js/main.e83ce5c2.js"
+  ]
+}

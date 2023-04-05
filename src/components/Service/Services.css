@@ -1,0 +1,6 @@
+.linearGradient {
+  background-image: linear-gradient(to right, #0d4b7d,#1d2f81,#1d2f81,#1d2f81,#1d2f81,#28595c);
+}
+.linearGradientLight {
+  background-image: linear-gradient(to right, #96ccf0,#75c3ea,#b2cff8,#bbcafd,#9ed2c9);
+}

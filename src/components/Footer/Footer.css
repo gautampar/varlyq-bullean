@@ -1,0 +1,47 @@
+/* .footerLinearGradient {
+  background-image: linear-gradient(
+    to right,
+    #010206,
+    #03070a,
+    #112a28,
+    #152632,
+    #050915,
+    #010206,
+    #010206,
+    #010206,
+    #010206
+  );
+} */
+
+.footerLinearGradient {
+  position: relative;
+  z-index: 1;
+}
+
+.footerLinearGradient::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  /* background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.4),
+    rgba(13, 37, 33, 0),
+    rgba(21, 39, 53, 0.4),
+    rgba(13,21,44,0.4),
+    rgba(0, 0, 0, 0.4),
+    rgba(0, 0, 0, 0.4),
+    rgba(0, 0, 0, 0.4)
+  ); */
+  filter: blur(2px);
+  /* clip-path: polygon(
+    0 0,
+    100% 0,
+    100% 100%,
+    0 calc(100% - 30px)
+  );  */
+  z-index: -1; /* Place the pseudo-element behind the parent */
+}
